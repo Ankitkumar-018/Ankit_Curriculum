@@ -1,0 +1,5 @@
+Dairy Union collection notes
+Milk is weighed in litres at the centre gate.
+Fat percentage is tested on every can.
+A can with fat below 3.5 percent is flagged for the quality team.
+Blank litres means the scale was offline, not zero.

@@ -1,0 +1,41 @@
+product_id,seller_id,title,category,price
+1,1,Soft Toy 1,Toys,249
+2,2,Steel Tiffin 2,Kitchen,319
+3,3,Wall Hanging 3,Decor,280
+4,4,Mixer Jar 4,Kitchen,590
+5,5,Steel Tiffin 5,Kitchen,349
+6,6,Flip Flops 6,Footwear,249
+7,7,Mixer Jar 7,Kitchen,590
+8,8,Mixer Jar 8,Kitchen,560
+9,9,Cotton Saree 9,Textiles,470
+10,10,Wooden Puzzle 10,Toys,249
+11,11,Sandals 11,Footwear,369
+12,12,Steel Tiffin 12,Kitchen,319
+13,13,Wall Hanging 13,Decor,310
+14,14,Steel Tiffin 14,Kitchen,299
+15,15,Wooden Puzzle 15,Toys,219
+16,16,Table Lamp 16,Decor,420
+17,17,Soft Toy 17,Toys,269
+18,18,Cotton Saree 18,Textiles,470
+19,19,Table Lamp 19,Decor,470
+20,20,Kurti Set 20,Textiles,400
+21,21,Wall Hanging 21,Decor,310
+22,22,Soft Toy 22,Toys,269
+23,1,Table Lamp 23,Decor,440
+24,2,Flip Flops 24,Footwear,219
+25,3,Steel Tiffin 25,Kitchen,299
+26,4,Steel Tiffin 26,Kitchen,299
+27,5,Kurti Set 27,Textiles,430
+28,6,Soft Toy 28,Toys,299
+29,7,Table Lamp 29,Decor,420
+30,8,Wall Hanging 30,Decor,310
+31,9,Flip Flops 31,Footwear,219
+32,10,Mixer Jar 32,Kitchen,560
+33,11,Sandals 33,Footwear,349
+34,12,Sandals 34,Footwear,349
+35,13,Sandals 35,Footwear,349
+36,14,Flip Flops 36,Footwear,249
+37,15,Kurti Set 37,Textiles,380
+38,16,Wooden Puzzle 38,Toys,249
+39,,Table Lamp 39,Decor,470
+40,99,Wooden Puzzle 40,Toys,219

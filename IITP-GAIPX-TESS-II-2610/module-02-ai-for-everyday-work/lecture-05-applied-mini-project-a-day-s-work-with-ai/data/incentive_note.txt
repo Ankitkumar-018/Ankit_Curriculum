@@ -1,0 +1,6 @@
+Sales Incentive Note, November 2026 (invented for teaching)
+
+1. The target for November is 100 units.
+2. A bonus of Rs 2,000 is paid for each unit above the target.
+3. A returned car in the same month is subtracted from units sold.
+4. The month-end report is due on 30 November.

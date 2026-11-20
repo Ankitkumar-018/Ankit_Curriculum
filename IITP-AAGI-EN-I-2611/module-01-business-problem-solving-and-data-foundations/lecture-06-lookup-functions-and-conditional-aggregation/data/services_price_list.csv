@@ -1,0 +1,9 @@
+service_code,service_name,category,base_rate_rs
+AC01,AC Repair,Appliances,799
+CLN02,Deep Cleaning,Home,1499
+PLB03,Plumbing,Home,449
+ELC04,Electrician,Home,399
+SAL05,Salon at Home,Beauty,899
+PNT06,Wall Painting,Home,2999
+PST07,Pest Control,Home,999
+WSH08,Washing Machine Repair,Appliances,599

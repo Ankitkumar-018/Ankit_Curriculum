@@ -1,0 +1,121 @@
+medicine_id,brand_name,category,manufacturer,price_rs,stock_qty,expiry_date,prescription_required
+101,Combiflam Forte,Pain relief,Cipla,25.0,5,2026-08-27,No
+102,Cheston Gel,Cough and cold,Cipla,38.0,60,2027-08-28,No
+103,Brufen 500,Pain relief,Lupin,86.0,0,2026-05-13,No
+104,Shelcal 650,Vitamin,Mankind,185.0,0,2026-12-06,No
+105,Januvia Plus,Diabetes,Mankind,86.0,0,2027-08-03,Yes
+106,Ascoril Kid,Cough and cold,Sun Pharma,45.0,60,2026-01-18,No
+107,Benadryl Kid,Cough and cold,Cipla,70.0,35,2026-01-26,No
+108,Meftal Plus,Pain relief,Sun Pharma,52.0,0,2027-04-20,No
+109,Alex DS,Cough and cold,Dr Reddy's,154.0,0,2028-01-08,No
+110,Meftal Kid,Pain relief,Cipla,99.0,0,2026-06-03,No
+111,Combiflam Syrup,Pain relief,Cipla,68.0,0,2026-08-28,No
+112,Itch Guard 250,Skin care,Sun Pharma,25.0,5,2027-09-06,No
+113,Betnovate Forte,Skin care,Lupin,52.0,0,2027-07-09,No
+114,Limcee Tablet,Vitamin,Abbott,18.0,12,2028-02-13,No
+115,Benadryl Forte,Cough and cold,Cipla,16.0,35,2027-03-10,No
+116,Cetaphil Syrup,Skin care,Sun Pharma,585.0,0,2027-12-01,No
+117,Gluconorm 650,Diabetes,Cipla,75.0,12,2027-02-24,Yes
+118,Soframycin DS,Skin care,Mankind,110.0,5,2027-10-11,No
+119,Azithral Tablet,Antibiotic,Dr Reddy's,20.0,12,2027-06-06,Yes
+120,Becosules Kid,Vitamin,Abbott,240.0,0,2026-03-09,No
+121,Novamox 250,Antibiotic,Cipla,480.0,35,2027-08-04,Yes
+122,Soframycin Tablet,Skin care,Lupin,185.0,0,2026-06-19,Yes
+123,Alex Forte,Cough and cold,Abbott,154.0,35,2026-06-17,No
+124,Candid Forte,Skin care,Sun Pharma,25.0,12,2026-01-16,No
+125,Betnovate Tablet,Skin care,Sun Pharma,25.0,35,2027-07-29,No
+126,Azithral 500,Antibiotic,Lupin,650.0,0,2027-05-16,Yes
+127,Evion DS,Vitamin,Cipla,45.0,20,2026-08-07,No
+128,Benadryl 250,Cough and cold,Lupin,58.0,0,2027-10-25,No
+129,Gluconorm Gel,Diabetes,Zydus,30.0,20,2026-03-21,Yes
+130,Volini Syrup,Pain relief,Dr Reddy's,240.0,35,2026-03-17,No
+131,Zifi 250,Antibiotic,Sun Pharma,650.0,20,2026-08-05,Yes
+132,Gluconorm Kid,Diabetes,Cipla,20.0,20,2026-06-18,Yes
+133,Becosules DS,Vitamin,Abbott,585.0,20,2027-11-18,No
+134,Crocin 650,Pain relief,Zydus,34.0,120,2026-02-07,No
+135,Augmentin 250,Antibiotic,Sun Pharma,52.0,20,2026-09-07,Yes
+136,Alex 250,Cough and cold,Lupin,38.0,35,2026-07-16,Yes
+137,Januvia Tablet,Diabetes,Zydus,528.0,60,2026-05-31,Yes
+138,Evion Forte,Vitamin,Dr Reddy's,20.0,5,2026-12-30,No
+139,Crocin Syrup,Pain relief,Cipla,18.0,20,2027-10-19,No
+140,Evion Plus,Vitamin,Zydus,86.0,250,2027-07-04,No
+141,Limcee Forte,Vitamin,Cipla,50.0,35,2027-04-12,No
+142,Azithral Plus,Antibiotic,Dr Reddy's,352.0,60,2028-01-01,Yes
+143,Novamox Forte,Antibiotic,Mankind,650.0,60,2028-02-27,Yes
+144,Novamox 650,Antibiotic,Lupin,28.0,5,2026-03-24,Yes
+145,Crocin 500,Pain relief,Dr Reddy's,30.0,0,2026-03-03,No
+146,Cefix Syrup,Antibiotic,Mankind,18.0,20,2026-04-06,Yes
+147,Cetaphil Plus,Skin care,Abbott,38.0,0,2028-01-17,No
+148,Shelcal Plus,Vitamin,Zydus,264.0,35,2027-05-11,No
+149,Candid 250,Skin care,Mankind,216.0,0,2026-02-27,No
+150,Glycomet Kid,Diabetes,Zydus,105.0,60,2027-10-28,Yes
+151,Shelcal 500,Vitamin,Abbott,216.0,5,2026-11-14,No
+152,Cheston 250,Cough and cold,Lupin,352.0,12,2026-05-18,No
+153,Neurobion 650,Vitamin,Lupin,68.0,20,2027-01-18,No
+154,Amaryl DS,Diabetes,Lupin,42.0,250,2027-08-29,Yes
+155,Becosules Plus,Vitamin,Dr Reddy's,97.0,250,2027-02-15,No
+156,Limcee 250,Vitamin,Zydus,28.0,60,2027-07-22,No
+157,Dolo Forte,Pain relief,Sun Pharma,320.0,5,2026-07-31,No
+158,Meftal Gel,Pain relief,Cipla,585.0,250,2027-12-01,No
+159,Glycomet Forte,Diabetes,Zydus,86.0,0,2028-01-09,Yes
+160,Cheston Kid,Cough and cold,Lupin,650.0,20,2026-02-09,No
+161,Evion 650,Vitamin,Abbott,57.0,120,2027-09-05,No
+162,Zifi Kid,Antibiotic,Abbott,528.0,5,2026-07-23,Yes
+163,Combiflam 500,Pain relief,Dr Reddy's,18.0,12,2027-10-31,No
+164,Candid 500,Skin care,Dr Reddy's,79.0,12,2027-03-04,No
+165,Gluconorm Forte,Diabetes,Mankind,650.0,35,2026-04-05,Yes
+166,Azithral Kid,Antibiotic,Cipla,288.0,60,2027-02-04,Yes
+167,Glycomet Gel,Diabetes,Abbott,216.0,0,2026-03-12,Yes
+168,Brufen Gel,Pain relief,Zydus,75.0,60,2026-06-07,No
+169,Augmentin Syrup,Antibiotic,Sun Pharma,34.0,5,2027-08-23,Yes
+170,Sinarest Tablet,Cough and cold,Zydus,79.0,250,2028-02-29,No
+171,Glycomet 500,Diabetes,Mankind,50.0,120,2027-07-18,Yes
+172,Sinarest Syrup,Cough and cold,Zydus,110.0,0,2027-10-02,No
+173,Ascoril 500,Cough and cold,Lupin,528.0,120,2027-09-05,No
+174,Novamox Tablet,Antibiotic,Zydus,320.0,120,2027-09-05,Yes
+175,Sinarest Gel,Cough and cold,Dr Reddy's,585.0,120,2027-08-01,No
+176,Betnovate 650,Skin care,Zydus,52.0,0,2026-07-13,No
+177,Amaryl Gel,Diabetes,Mankind,154.0,250,2027-11-25,Yes
+178,Januvia 250,Diabetes,Abbott,650.0,5,2026-12-04,Yes
+179,Cetaphil 500,Skin care,Mankind,320.0,60,2026-03-07,No
+180,Dolo 250,Pain relief,Sun Pharma,320.0,12,2027-01-23,No
+181,Cefix 650,Antibiotic,Zydus,20.0,35,2027-03-19,Yes
+182,Crocin Plus,Pain relief,Dr Reddy's,86.0,35,2027-08-08,No
+183,Neurobion 250,Vitamin,Mankind,140.0,250,2027-06-01,No
+184,Itch Guard Gel,Skin care,Lupin,95.0,5,2027-12-15,Yes
+185,Brufen Kid,Pain relief,Cipla,480.0,5,2026-06-29,No
+186,Volini Kid,Pain relief,Zydus,38.0,20,2027-12-27,No
+187,Combiflam Kid,Pain relief,Lupin,121.0,12,2027-03-22,No
+188,Benadryl DS,Cough and cold,Zydus,105.0,60,2026-11-14,Yes
+189,Januvia Kid,Diabetes,Sun Pharma,25.0,0,2026-04-06,Yes
+190,Dolo DS,Pain relief,Sun Pharma,22.0,12,2026-04-22,No
+191,Zifi Gel,Antibiotic,Mankind,95.0,35,2027-03-30,Yes
+192,Meftal Tablet,Pain relief,Lupin,99.0,35,2026-04-23,No
+193,Amaryl Syrup,Diabetes,Zydus,68.0,0,2027-10-13,Yes
+194,Ascoril Tablet,Cough and cold,Dr Reddy's,82.0,120,2026-10-31,No
+195,Betnovate Syrup,Skin care,Cipla,42.0,250,2026-04-27,No
+196,Volini 500,Pain relief,Sun Pharma,79.0,35,2027-08-09,Yes
+197,Becosules Gel,Vitamin,Zydus,432.0,250,2026-10-19,Yes
+198,Zifi Forte,Antibiotic,Cipla,18.0,35,2027-09-30,Yes
+199,Neurobion Tablet,Vitamin,Zydus,121.0,20,2027-05-28,No
+200,Soframycin 500,Skin care,Dr Reddy's,480.0,5,2026-03-11,No
+201,Amaryl 250,Diabetes,Cipla,97.0,5,2027-12-28,Yes
+202,Neurobion Plus,Vitamin,Cipla,18.0,35,2027-05-12,No
+203,Candid Kid,Skin care,Lupin,28.0,0,2027-11-21,No
+204,Volini Forte,Pain relief,Cipla,166.0,120,2027-06-06,No
+205,Cefix Plus,Antibiotic,Dr Reddy's,25.0,35,2026-12-12,Yes
+206,Alex Tablet,Cough and cold,Sun Pharma,18.0,5,2026-11-14,No
+207,Sinarest Plus,Cough and cold,Sun Pharma,432.0,12,2027-01-10,No
+208,Cheston Syrup,Cough and cold,Lupin,38.0,0,2027-10-19,No
+209,Ascoril Forte,Cough and cold,Zydus,34.0,5,2026-10-10,No
+210,Soframycin Gel,Skin care,Sun Pharma,57.0,12,2027-09-17,No
+211,Brufen Forte,Pain relief,Zydus,22.0,12,2028-01-26,Yes
+212,Augmentin DS,Antibiotic,Mankind,18.0,12,2026-11-15,Yes
+213,Shelcal Kid,Vitamin,Dr Reddy's,22.0,250,2026-09-17,No
+214,Limcee Gel,Vitamin,Abbott,105.0,120,2027-10-09,No
+215,Dolo Plus,Pain relief,Abbott,25.0,60,2027-08-02,No
+216,Augmentin Gel,Antibiotic,Abbott,432.0,12,2026-04-06,Yes
+217,Cetaphil 250,Skin care,Sun Pharma,79.0,0,2027-10-31,No
+218,Itch Guard Forte,Skin care,Sun Pharma,52.0,5,2027-02-01,No
+219,Itch Guard Plus,Skin care,Lupin,47.0,12,2026-11-01,No
+220,Cefix 500,Antibiotic,Abbott,45.0,5,2026-05-09,Yes

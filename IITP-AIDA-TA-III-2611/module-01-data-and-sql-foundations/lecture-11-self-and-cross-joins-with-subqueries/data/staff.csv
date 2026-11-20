@@ -1,0 +1,41 @@
+emp_id,emp_name,branch,role,manager_id,salary,bonus
+1,Aarti Rao,Head Office,Regional Head,,260000,
+2,Bharat Shah,Andheri,Branch Manager,1,150000,12000
+3,Chitra Iyer,Koramangala,Branch Manager,1,155000,12000
+4,Deepak Sen,Salt Lake,Branch Manager,1,160000,12000
+5,Esha Reddy,Banjara Hills,Branch Manager,1,165000,12000
+6,Farhan Kapoor,Connaught Place,Branch Manager,1,170000,12000
+7,Gauri Khan,Andheri,Loan Officer,2,55000,5000
+8,Harish Singh,Koramangala,Loan Officer,3,48000,3000
+9,Isha Patel,Salt Lake,Analyst,4,55000,3000
+10,Jatin Patel,Banjara Hills,Analyst,2,160000,
+11,Kiran Singh,Connaught Place,Loan Officer,6,42000,
+12,Leena Das,Andheri,Loan Officer,2,55000,
+13,Manoj Singh,Koramangala,Analyst,3,48000,5000
+14,Nalini Nair,Salt Lake,Analyst,4,70000,3000
+15,Omkar Das,Banjara Hills,Loan Officer,5,62000,
+16,Pooja Singh,Connaught Place,Analyst,6,42000,8000
+17,Qadir Das,Andheri,Loan Officer,2,42000,3000
+18,Rekha Joshi,Koramangala,Loan Officer,3,70000,
+19,Sunil Nair,Salt Lake,Loan Officer,4,42000,5000
+20,Tara Singh,Banjara Hills,Analyst,5,55000,5000
+21,Uday Nair,Connaught Place,Loan Officer,6,55000,5000
+22,Vidya Nair,Andheri,Analyst,2,48000,3000
+23,Waseem Nair,Koramangala,Loan Officer,3,70000,5000
+24,Yamini Das,Salt Lake,Analyst,4,42000,3000
+25,Zoya Das,Banjara Hills,Loan Officer,5,48000,
+26,Anil Nair,Connaught Place,Analyst,6,55000,
+27,Bina Nair,Andheri,Loan Officer,2,48000,8000
+28,Chetan Das,Koramangala,Loan Officer,3,55000,
+29,Disha Patel,Salt Lake,Loan Officer,4,55000,5000
+30,Ehsan Patel,Banjara Hills,Loan Officer,5,55000,5000
+31,Falguni Das,Connaught Place,Loan Officer,6,55000,
+32,Girish Das,Andheri,Loan Officer,2,42000,5000
+33,Hema Das,Koramangala,Loan Officer,3,62000,8000
+34,Imran Singh,Salt Lake,Loan Officer,4,48000,5000
+35,Jaya Singh,Banjara Hills,Loan Officer,5,62000,5000
+36,Kabir Khan,Connaught Place,Analyst,6,42000,3000
+37,Lata Joshi,Andheri,Loan Officer,2,70000,8000
+38,Mohan Nair,Koramangala,Loan Officer,3,40000,
+39,Neha Khan,Salt Lake,Analyst,4,40000,3000
+40,Pranav Singh,Banjara Hills,Loan Officer,5,40000,8000

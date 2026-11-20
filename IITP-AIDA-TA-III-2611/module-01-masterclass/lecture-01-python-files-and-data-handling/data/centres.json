@@ -1,0 +1,30 @@
+{
+  "union": "Invented Dairy Union",
+  "year_started": 1998,
+  "centres": [
+    {
+      "name": "Anand",
+      "capacity_litres": 600,
+      "cold_chain": true,
+      "manager": "Reema Shah"
+    },
+    {
+      "name": "Kheda",
+      "capacity_litres": 450,
+      "cold_chain": true,
+      "manager": null
+    },
+    {
+      "name": "Mehsana",
+      "capacity_litres": 520,
+      "cold_chain": false,
+      "manager": "Dev Patel"
+    },
+    {
+      "name": "Palanpur",
+      "capacity_litres": 380,
+      "cold_chain": true,
+      "manager": "Hina Joshi"
+    }
+  ]
+}

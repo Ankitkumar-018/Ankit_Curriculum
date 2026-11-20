@@ -1,0 +1,121 @@
+order_id,order_date,city,product_type,channel,amount_rs,status
+5001,2026-02-01,Mumbai,Frames,Store,2010,Delivered
+5002,2026-02-01,Bengaluru,Contact lenses,Store,1160,Delivered
+5003,2026-02-01,Delhi,Frames,Store,2790,Delivered
+5004,2026-02-01,Mumbai,Frames,Store,2130,Delivered
+5005,2026-02-01,Delhi,Frames,App,3090,Delivered
+5006,2026-02-02,Mumbai,Contact lenses,App,1460,Delivered
+5007,2026-02-02,Delhi,Sunglasses,Store,4480,Delivered
+5008,2026-02-03,Delhi,Frames,App,3160,Delivered
+5009,2026-02-03,Bengaluru,Sunglasses,App,1710,Delivered
+5010,2026-02-03,Chennai,Contact lenses,Store,1700,Delivered
+5011,2026-02-03,Mumbai,Contact lenses,App,1470,Delivered
+5012,2026-02-03,Bengaluru,Frames,Store,2470,Delivered
+5013,2026-02-04,Bengaluru,Frames,App,2560,Delivered
+5014,2026-02-04,Bengaluru,Contact lenses,Store,1370,Delivered
+5015,2026-02-04,Chennai,Frames,App,1200,Delivered
+5016,2026-02-04,Mumbai,Frames,Store,2010,Delivered
+5017,2026-02-04,Hyderabad,Frames,Store,2390,Delivered
+5018,2026-02-04,Mumbai,Contact lenses,App,740,Cancelled
+5019,2026-02-05,Chennai,Contact lenses,App,1370,Delivered
+5020,2026-02-05,Delhi,Contact lenses,Store,670,Delivered
+5021,2026-02-05,Hyderabad,Contact lenses,Store,1380,Delivered
+5022,2026-02-05,Delhi,Sunglasses,Store,1840,Delivered
+5023,2026-02-05,Mumbai,Frames,App,1960,Delivered
+5024,2026-02-05,Delhi,Frames,App,2860,Delivered
+5025,2026-02-06,Pune,Contact lenses,Store,1380,Delivered
+5026,2026-02-06,Chennai,Sunglasses,Store,2930,Delivered
+5027,2026-02-06,Hyderabad,Frames,Store,1680,Delivered
+5028,2026-02-06,Mumbai,Sunglasses,App,4060,Delivered
+5029,2026-02-07,Bengaluru,Frames,App,1590,Delivered
+5030,2026-02-07,Bengaluru,Frames,Store,1820,Delivered
+5031,2026-02-07,Delhi,Sunglasses,Store,4120,Delivered
+5032,2026-02-08,Mumbai,Frames,Store,1680,Delivered
+5033,2026-02-08,Delhi,Contact lenses,Store,800,Cancelled
+5034,2026-02-08,Pune,Sunglasses,App,3600,Delivered
+5035,2026-02-09,Mumbai,Sunglasses,App,3000,Delivered
+5036,2026-02-09,Chennai,Sunglasses,App,1690,Delivered
+5037,2026-02-09,Pune,Contact lenses,Store,1500,Delivered
+5038,2026-02-09,Delhi,Contact lenses,App,1200,Delivered
+5039,2026-02-09,Mumbai,Frames,Store,2690,Delivered
+5040,2026-02-09,Mumbai,Frames,App,1670,Delivered
+5041,2026-02-09,Bengaluru,Contact lenses,App,1300,Delivered
+5042,2026-02-10,Bengaluru,Frames,App,2690,Delivered
+5043,2026-02-10,Pune,Frames,App,2080,Delivered
+5044,2026-02-10,Pune,Frames,App,2280,Delivered
+5045,2026-02-10,Mumbai,Frames,App,2720,Delivered
+5046,2026-02-11,Mumbai,Contact lenses,Store,1420,Delivered
+5047,2026-02-11,Delhi,Frames,Store,1670,Delivered
+5048,2026-02-12,Hyderabad,Sunglasses,Store,4410,Delivered
+5049,2026-02-12,Delhi,Frames,Store,1910,Delivered
+5050,2026-02-12,Mumbai,Contact lenses,App,1440,Delivered
+5051,2026-02-12,Delhi,Sunglasses,App,3040,Delivered
+5052,2026-02-12,Bengaluru,Frames,Store,1800,Delivered
+5053,2026-02-12,Bengaluru,Contact lenses,App,1530,Delivered
+5054,2026-02-12,Delhi,Contact lenses,App,1100,Delivered
+5055,2026-02-13,Bengaluru,Sunglasses,Store,4150,Cancelled
+5056,2026-02-13,Bengaluru,Contact lenses,Store,1200,Delivered
+5057,2026-02-13,Mumbai,Frames,App,1540,Delivered
+5058,2026-02-13,Hyderabad,Frames,Store,1390,Delivered
+5059,2026-02-13,Bengaluru,Contact lenses,App,1000,Delivered
+5060,2026-02-14,Pune,Contact lenses,Store,630,Delivered
+5061,2026-02-14,Pune,Contact lenses,Store,930,Delivered
+5062,2026-02-14,Delhi,Sunglasses,Store,1590,Delivered
+5063,2026-02-14,Mumbai,Contact lenses,App,1390,Delivered
+5064,2026-02-14,Delhi,Frames,Store,2460,Delivered
+5065,2026-02-14,Bengaluru,Frames,Store,1790,Cancelled
+5066,2026-02-14,Mumbai,Frames,App,2570,Delivered
+5067,2026-02-15,Pune,Frames,App,1940,Delivered
+5068,2026-02-15,Bengaluru,Sunglasses,App,2150,Delivered
+5069,2026-02-16,Delhi,Frames,Store,2800,Delivered
+5070,2026-02-16,Bengaluru,Contact lenses,App,1610,Delivered
+5071,2026-02-16,Mumbai,Sunglasses,App,3490,Delivered
+5072,2026-02-16,Bengaluru,Frames,Store,3150,Cancelled
+5073,2026-02-17,Delhi,Contact lenses,App,1160,Delivered
+5074,2026-02-17,Delhi,Sunglasses,App,1760,Cancelled
+5075,2026-02-18,Delhi,Sunglasses,App,2470,Delivered
+5076,2026-02-18,Chennai,Contact lenses,Store,940,Delivered
+5077,2026-02-18,Hyderabad,Frames,App,2760,Delivered
+5078,2026-02-19,Pune,Contact lenses,Store,790,Delivered
+5079,2026-02-19,Bengaluru,Contact lenses,App,1660,Delivered
+5080,2026-02-19,Chennai,Contact lenses,App,770,Delivered
+5081,2026-02-19,Delhi,Frames,Store,1460,Delivered
+5082,2026-02-20,Bengaluru,Sunglasses,Store,1920,Cancelled
+5083,2026-02-20,Bengaluru,Contact lenses,Store,800,Delivered
+5084,2026-02-20,Mumbai,Frames,Store,1870,Delivered
+5085,2026-02-20,Mumbai,Sunglasses,Store,2420,Delivered
+5086,2026-02-20,Bengaluru,Frames,App,1630,Delivered
+5087,2026-02-20,Mumbai,Sunglasses,App,3440,Delivered
+5088,2026-02-20,Bengaluru,Sunglasses,Store,1710,Delivered
+5089,2026-02-21,Bengaluru,Frames,App,2960,Delivered
+5090,2026-02-21,Chennai,Frames,Store,1380,Delivered
+5091,2026-02-21,Chennai,Frames,App,2870,Delivered
+5092,2026-02-21,Delhi,Frames,App,3080,Delivered
+5093,2026-02-21,Hyderabad,Contact lenses,Store,1760,Delivered
+5094,2026-02-21,Bengaluru,Frames,Store,2660,Delivered
+5095,2026-02-21,Pune,Frames,App,1230,Delivered
+5096,2026-02-21,Hyderabad,Sunglasses,App,4410,Delivered
+5097,2026-02-21,Delhi,Contact lenses,App,1170,Delivered
+5098,2026-02-21,Bengaluru,Contact lenses,Store,1120,Delivered
+5099,2026-02-21,Bengaluru,Frames,App,3050,Delivered
+5100,2026-02-22,Bengaluru,Frames,Store,2260,Delivered
+5101,2026-02-22,Mumbai,Contact lenses,App,1290,Delivered
+5102,2026-02-22,Bengaluru,Frames,App,2140,Delivered
+5103,2026-02-23,Hyderabad,Frames,Store,1540,Delivered
+5104,2026-02-24,Chennai,Sunglasses,App,3270,Delivered
+5105,2026-02-24,Mumbai,Contact lenses,Store,1240,Cancelled
+5106,2026-02-24,Hyderabad,Frames,App,2270,Delivered
+5107,2026-02-24,Hyderabad,Sunglasses,App,4210,Delivered
+5108,2026-02-24,Bengaluru,Frames,App,2730,Delivered
+5109,2026-02-24,Mumbai,Sunglasses,App,1800,Delivered
+5110,2026-02-25,Bengaluru,Frames,Store,1860,Delivered
+5111,2026-02-25,Bengaluru,Contact lenses,Store,1410,Delivered
+5112,2026-02-25,Bengaluru,Sunglasses,App,1890,Delivered
+5113,2026-02-25,Bengaluru,Frames,Store,1760,Delivered
+5114,2026-02-25,Bengaluru,Frames,App,1290,Delivered
+5115,2026-02-26,Delhi,Frames,App,1540,Cancelled
+5116,2026-02-26,Delhi,Frames,App,2690,Delivered
+5117,2026-02-27,Mumbai,Contact lenses,App,1420,Delivered
+5118,2026-02-27,Hyderabad,Frames,Store,1790,Delivered
+5119,2026-02-28,Mumbai,Contact lenses,App,1300,Delivered
+5120,2026-02-28,Bengaluru,Frames,Store,2990,Delivered

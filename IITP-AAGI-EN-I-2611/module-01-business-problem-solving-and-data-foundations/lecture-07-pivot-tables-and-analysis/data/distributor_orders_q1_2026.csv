@@ -1,0 +1,121 @@
+order_id,order_date,region,distributor_id,product,sales_rs
+2001,2026-01-01,West,D07,Rusk,32800
+2002,2026-01-02,East,D05,Cream biscuits,14300
+2003,2026-01-04,West,D07,Namkeen,14900
+2004,2026-01-04,South,D04,Cream biscuits,12600
+2005,2026-01-06,North,D01,Rusk,16100
+2006,2026-01-07,West,D08,Cream biscuits,13900
+2007,2026-01-08,East,D06,Cream biscuits,17900
+2008,2026-01-09,North,D01,Cream biscuits,17300
+2009,2026-01-09,South,D03,Rusk,12000
+2010,2026-01-10,South,D04,Namkeen,9100
+2011,2026-01-10,North,D02,Cream biscuits,14600
+2012,2026-01-11,North,D01,Rusk,15000
+2013,2026-01-12,North,D01,Candy,6600
+2014,2026-01-13,North,D01,Rusk,31000
+2015,2026-01-13,North,D02,Namkeen,20400
+2016,2026-01-13,West,D08,Candy,6200
+2017,2026-01-13,South,D04,Namkeen,9800
+2018,2026-01-14,South,D04,Namkeen,10100
+2019,2026-01-14,North,D02,Glucose biscuits,5200
+2020,2026-01-16,North,D01,Candy,3000
+2021,2026-01-16,West,D08,Candy,2700
+2022,2026-01-17,West,D08,Cream biscuits,7000
+2023,2026-01-18,West,D08,Candy,3800
+2024,2026-01-19,South,D03,Namkeen,13800
+2025,2026-01-19,West,D07,Rusk,32300
+2026,2026-01-19,West,D07,Namkeen,10200
+2027,2026-01-19,East,D05,Candy,4900
+2028,2026-01-20,West,D08,Cream biscuits,12400
+2029,2026-01-21,North,D01,Glucose biscuits,6100
+2030,2026-01-21,North,D01,Cream biscuits,6800
+2031,2026-01-22,South,D04,Cream biscuits,6700
+2032,2026-01-23,East,D06,Glucose biscuits,5000
+2033,2026-01-24,West,D07,Glucose biscuits,6900
+2034,2026-01-24,East,D05,Namkeen,11300
+2035,2026-01-24,West,D07,Glucose biscuits,4000
+2036,2026-01-25,West,D07,Glucose biscuits,7600
+2037,2026-01-25,South,D03,Candy,4600
+2038,2026-01-26,South,D04,Glucose biscuits,8600
+2039,2026-01-26,North,D01,Candy,5100
+2040,2026-01-28,South,D04,Rusk,15000
+2041,2026-01-28,North,D01,Namkeen,11100
+2042,2026-01-30,North,D01,Candy,3000
+2043,2026-01-30,South,D04,Namkeen,13600
+2044,2026-01-30,South,D03,Glucose biscuits,8100
+2045,2026-01-31,North,D02,Glucose biscuits,6800
+2046,2026-02-01,South,D03,Rusk,30200
+2047,2026-02-01,South,D03,Rusk,16500
+2048,2026-02-02,West,D08,Rusk,30200
+2049,2026-02-02,North,D02,Glucose biscuits,8300
+2050,2026-02-02,West,D07,Rusk,32000
+2051,2026-02-03,South,D04,Glucose biscuits,5100
+2052,2026-02-03,West,D07,Cream biscuits,6600
+2053,2026-02-03,North,D01,Namkeen,9200
+2054,2026-02-04,West,D07,Namkeen,14100
+2055,2026-02-05,East,D05,Cream biscuits,10100
+2056,2026-02-06,East,D06,Namkeen,22200
+2057,2026-02-06,South,D03,Cream biscuits,15200
+2058,2026-02-06,North,D01,Namkeen,22400
+2059,2026-02-06,South,D04,Glucose biscuits,5100
+2060,2026-02-06,North,D02,Candy,6600
+2061,2026-02-07,South,D04,Cream biscuits,8500
+2062,2026-02-07,North,D01,Glucose biscuits,4700
+2063,2026-02-09,South,D04,Candy,6000
+2064,2026-02-11,South,D03,Candy,3500
+2065,2026-02-13,North,D01,Candy,4600
+2066,2026-02-13,South,D03,Glucose biscuits,4900
+2067,2026-02-14,North,D02,Namkeen,12900
+2068,2026-02-15,North,D01,Glucose biscuits,7500
+2069,2026-02-16,North,D02,Rusk,12600
+2070,2026-02-16,South,D03,Candy,4400
+2071,2026-02-16,North,D02,Rusk,28800
+2072,2026-02-17,West,D08,Cream biscuits,15800
+2073,2026-02-17,West,D08,Cream biscuits,15900
+2074,2026-02-18,West,D08,Cream biscuits,7100
+2075,2026-02-19,West,D08,Cream biscuits,12700
+2076,2026-02-20,South,D04,Namkeen,26000
+2077,2026-02-21,South,D03,Rusk,31800
+2078,2026-02-21,South,D04,Glucose biscuits,5500
+2079,2026-02-21,South,D03,Candy,3100
+2080,2026-02-24,North,D02,Rusk,20800
+2081,2026-02-24,South,D03,Glucose biscuits,7200
+2082,2026-02-25,South,D03,Candy,4700
+2083,2026-02-25,West,D07,Namkeen,13600
+2084,2026-02-26,North,D02,Glucose biscuits,6800
+2085,2026-02-27,West,D07,Namkeen,24500
+2086,2026-02-27,South,D03,Candy,6900
+2087,2026-02-27,South,D03,Candy,4200
+2088,2026-02-28,South,D03,Namkeen,12500
+2089,2026-02-28,South,D03,Glucose biscuits,5100
+2090,2026-03-03,South,D04,Glucose biscuits,3200
+2091,2026-03-06,South,D03,Namkeen,24100
+2092,2026-03-06,South,D04,Cream biscuits,6900
+2093,2026-03-07,East,D06,Candy,3800
+2094,2026-03-07,South,D04,Rusk,28200
+2095,2026-03-08,South,D03,Candy,3500
+2096,2026-03-08,North,D01,Glucose biscuits,4100
+2097,2026-03-09,East,D06,Namkeen,23600
+2098,2026-03-10,West,D07,Glucose biscuits,5400
+2099,2026-03-10,South,D04,Candy,2900
+2100,2026-03-13,West,D07,Glucose biscuits,4600
+2101,2026-03-14,North,D02,Glucose biscuits,5100
+2102,2026-03-17,West,D07,Cream biscuits,17400
+2103,2026-03-18,West,D08,Glucose biscuits,5600
+2104,2026-03-19,West,D07,Candy,6700
+2105,2026-03-19,East,D05,Glucose biscuits,4100
+2106,2026-03-21,North,D02,Cream biscuits,8900
+2107,2026-03-22,West,D08,Cream biscuits,10400
+2108,2026-03-23,South,D03,Glucose biscuits,7800
+2109,2026-03-23,West,D08,Rusk,33800
+2110,2026-03-24,South,D04,Cream biscuits,9000
+2111,2026-03-24,South,D03,Rusk,33800
+2112,2026-03-25,West,D07,Glucose biscuits,6800
+2113,2026-03-27,South,D04,Namkeen,14700
+2114,2026-03-27,South,D04,Cream biscuits,16700
+2115,2026-03-28,West,D08,Namkeen,25600
+2116,2026-03-28,West,D08,Glucose biscuits,8700
+2117,2026-03-28,South,D03,Namkeen,20000
+2118,2026-03-29,North,D02,Candy,7000
+2119,2026-03-29,North,D02,Glucose biscuits,6600
+2120,2026-03-31,North,D01,Glucose biscuits,8200
