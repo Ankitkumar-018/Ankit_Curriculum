@@ -1,0 +1,121 @@
+order_id,customer,city,product,qty,unit_price,order_date
+N1035,Neha Gupta, Chennai,Moisturiser,2,Rs 699,09-03-2026
+N1069, Dev Malhotra,Chennai,Matte Lipstick,4 ,Rs 499,13-03-2026
+N1013,  RAHUL MENON ,chennai  ,Perfume Mist,4 ,"Rs 1,499",13-03-2026
+N1036,Isha Patel,Delhi,Sunscreen SPF 50,2,Rs 599,03-03-2026
+N1072,  DEV MALHOTRA ,  MUMBAI ,Hair Oil,2,Rs 349,08-03-2026
+N1037,Aman Verma,  DELHI ,Perfume Mist,3 ,"Rs 1,499",06-03-2026
+N1095,  POOJA SHETTY ,Chennai,Face Serum,2 ,"Rs 1,299",01-03-2026
+N1111,Rohan Mehta,Bengaluru,Perfume Mist,2,"Rs 1,499",06-03-2026
+N1041,Riya Kapoor,kolkata  ,Compact Powder,2,Rs 449,05-03-2026
+N1034, Arjun Das, Bengaluru,Matte Lipstick,3,Rs 499,06-03-2026
+N1016,Neha Gupta,Pune,Nail Polish Set,4,Rs 299,10-03-2026
+N1044, Rohan Mehta,  DELHI ,Perfume Mist,4,"Rs 1,499",13-03-2026
+N1085,  NIKHIL JOSHI ,Pune,Perfume Mist,4,"Rs 1,499",09-03-2026
+N1112,Vikram Rao,chennai  ,Perfume Mist,1,"Rs 1,499",02-03-2026
+N1100,  ROHAN MEHTA ,  PUNE ,Sunscreen SPF 50,2,Rs 599,06-03-2026
+N1048,Kabir Singh,  MUMBAI ,Moisturiser,2,Rs 699,10-03-2026
+N1050,ananya iyer  ,  DELHI ,Hair Oil,2 ,Rs 349,03-03-2026
+N1082,Riya Kapoor,Pune,Sunscreen SPF 50,1 ,Rs 599,06-03-2026
+N1023,  TARA BOSE , Bengaluru,Perfume Mist,2,"Rs 1,499",04-03-2026
+N1058,Ananya Iyer, Chennai,Moisturiser,1 ,Rs 699,04-03-2026
+N1110,Isha Patel,  MUMBAI ,Matte Lipstick,1,Rs 499,01-03-2026
+N1060,nikhil joshi  ,Delhi,Nail Polish Set,1,Rs 299,13-03-2026
+N1003,Arjun Das,pune  ,Matte Lipstick,4,Rs 499,03-03-2026
+N1056,Isha Patel,  KOLKATA ,Face Serum,1 ,"Rs 1,299",15-03-2026
+N1015,  TARA BOSE ,Delhi,Compact Powder,1,Rs 449,13-03-2026
+N1043,  ROHAN MEHTA ,pune  ,Matte Lipstick,1,Rs 499,05-03-2026
+N1096,dev malhotra  ,Kolkata,Matte Lipstick,3,Rs 499,05-03-2026
+N1031, Vikram Rao,  MUMBAI ,Nail Polish Set,1 ,Rs 299,06-03-2026
+N1071,sana khan  ,bengaluru  ,Face Serum,2,Rs 1299,14-03-2026
+N1081,HARSH VYAS,mumbai  ,Nail Polish Set,4,Rs 299,01-03-2026
+N1108,  RAHUL MENON ,pune  ,Compact Powder,4 ,Rs 449,15-03-2026
+N1098,priya sharma  ,Mumbai,Nail Polish Set,1 ,Rs 299,15-03-2026
+N1062,kavya reddy  , Pune,Sunscreen SPF 50,1,Rs 599,03-03-2026
+N1102,Kavya Reddy,  MUMBAI ,Sunscreen SPF 50,1,Rs 599,01-03-2026
+N1001,Neha Gupta,Chennai,Matte Lipstick,4 ,Rs 499,03-03-2026
+N1078,riya kapoor  ,Delhi,Moisturiser,1,Rs 0,14-03-2026
+N1086,Harsh Vyas,Bengaluru,Moisturiser,2,Rs 699,06-03-2026
+N1077, Vikram Rao,Delhi,Perfume Mist,1,"Rs 1,499",09-03-2026
+N1104,Pooja Shetty,Bengaluru,Sunscreen SPF 50,3 ,Rs 599,07-03-2026
+N1076,Ananya Iyer,chennai  ,Nail Polish Set,1,Rs 299,06-03-2026
+N1083,Neha Gupta,Kolkata,Matte Lipstick,3 ,Rs 499,11-03-2026
+N1047,Neha Gupta,Chennai,Perfume Mist,1 ,"Rs 1,499",07-03-2026
+N1090,kavya reddy  , Kolkata,Compact Powder,2,Rs 449,15-03-2026
+N1004,  TARA BOSE ,Bengaluru,Nail Polish Set,3,Rs 299,10-03-2026
+N1097, Tara Bose,Pune,Nail Polish Set,2,Rs 299,12-03-2026
+N1032,  KABIR SINGH ,Bengaluru,Sunscreen SPF 50,1,Rs 599,12-03-2026
+N1045,  MEERA NAIR ,Delhi,Moisturiser,2,Rs 699,04-03-2026
+N1021,  MEERA NAIR , Mumbai,Moisturiser,2,Rs 0,07-03-2026
+N1022,Kavya Reddy,Kolkata,Hair Oil,3,Rs 349,13-03-2026
+N1061,Kavya Reddy,pune  ,Nail Polish Set,1,Rs 299,13-03-2026
+N1006,  AMAN VERMA ,Kolkata,Face Serum,2,"Rs 1,299",03-03-2026
+N1075, Neha Gupta,Delhi,Moisturiser,2 ,Rs 699,05-03-2026
+N1074, Tara Bose,mumbai  ,Face Serum,2,Rs 1299,04-03-2026
+N1096,dev malhotra  ,Kolkata,Matte Lipstick,3,Rs 499,05-03-2026
+N1039,  MEERA NAIR ,  KOLKATA ,Hair Oil,4,Rs 349,06-03-2026
+N1012,Vikram Rao, Delhi,Sunscreen SPF 50,4,Rs 599,12-03-2026
+N1068,Arjun Das,  DELHI ,Face Serum,1,Rs 1299,06-03-2026
+N1006,  AMAN VERMA ,Kolkata,Face Serum,2,"Rs 1,299",03-03-2026
+N1005,Aman Verma,chennai  ,Moisturiser,2,Rs 699,01-03-2026
+N1088,  HARSH VYAS ,  DELHI ,Nail Polish Set,1 ,Rs 299,15-03-2026
+N1103,  KAVYA REDDY ,Kolkata,Face Serum,3,"Rs 1,299",06-03-2026
+N1057,Vikram Rao, Kolkata,Sunscreen SPF 50,4 ,Rs 599,14-03-2026
+N1054,Meera Nair,  DELHI ,Matte Lipstick,2,Rs 499,04-03-2026
+N1008,Kabir Singh,Pune,Matte Lipstick,2,Rs 499,03-03-2026
+N1028, Kavya Reddy,Chennai,Compact Powder,3 ,Rs 449,10-03-2026
+N1010,Riya Kapoor,Bengaluru,Moisturiser,2 ,Rs 699,06-03-2026
+N1011,  MEERA NAIR ,pune  ,Compact Powder,3 ,Rs 449,08-03-2026
+N1009,  PRIYA SHARMA ,Kolkata,Nail Polish Set,2 ,Rs 299,14-03-2026
+N1089,  ZOYA ANSARI , Kolkata,Matte Lipstick,1,Rs 499,11-03-2026
+N1031,VIKRAM RAO,  MUMBAI ,Nail Polish Set,1 ,Rs 299,06-03-2026
+N1042,ananya iyer  ,  DELHI ,Matte Lipstick,2,Rs 499,01-03-2026
+N1046,  ARJUN DAS ,chennai  ,Perfume Mist,3 ,"Rs 1,499",01-03-2026
+N1024,Neha Gupta,Pune,Matte Lipstick,2,Rs 499,05-03-2026
+N1064,vikram rao  , Mumbai,Hair Oil,4,Rs 349,09-03-2026
+N1051,Rohan Mehta,  MUMBAI ,Nail Polish Set,1,Rs 299,01-03-2026
+N1002, Sana Khan,Pune,Nail Polish Set,2,Rs 299,07-03-2026
+N1014,Priya Sharma, Kolkata,Matte Lipstick,4,Rs 499,09-03-2026
+N1018,Priya Sharma,Bengaluru,Matte Lipstick,1,Rs 499,12-03-2026
+N1029, Zoya Ansari,Chennai,Sunscreen SPF 50,3 ,Rs 599,03-03-2026
+N1063,  SANA KHAN ,Pune,Compact Powder,4,Rs 449,03-03-2026
+N1053,MEERA NAIR,chennai  ,Matte Lipstick,4,Rs 499,03-03-2026
+N1080,Arjun Das, Bengaluru,Hair Oil,2 ,Rs 349,12-03-2026
+N1007,pooja shetty  ,delhi  ,Compact Powder,1 ,Rs 449,08-03-2026
+N1055,  HARSH VYAS ,Pune,Sunscreen SPF 50,1 ,Rs 599,14-03-2026
+N1109,  KAVYA REDDY ,Delhi,Matte Lipstick,2,Rs 499,03-03-2026
+N1020,Arjun Das, Kolkata,Nail Polish Set,2 ,Rs 299,05-03-2026
+N1052,  DEV MALHOTRA ,Mumbai,Matte Lipstick,2 ,Rs 499,12-03-2026
+N1079, Priya Sharma, Mumbai,Compact Powder,4,Rs 449,04-03-2026
+N1065,ananya iyer  ,Delhi,Nail Polish Set,2 ,Rs 299,07-03-2026
+N1017,  ISHA PATEL ,  BENGALURU ,Sunscreen SPF 50,2 ,Rs 599,07-03-2026
+N1101, Meera Nair,  CHENNAI ,Moisturiser,1,Rs 699,07-03-2026
+N1106,  ARJUN DAS ,  DELHI ,Nail Polish Set,1 ,Rs 299,13-03-2026
+N1094,Kavya Reddy,  PUNE ,Face Serum,1,"Rs 1,299",14-03-2026
+N1087,aman verma  ,pune  ,Sunscreen SPF 50,2,Rs 599,12-03-2026
+N1033,Tara Bose,Delhi,Perfume Mist,3,"Rs 1,499",05-03-2026
+N1025,  ARJUN DAS ,Pune,Nail Polish Set,4 ,Rs 299,05-03-2026
+N1053,meera nair  ,chennai  ,Matte Lipstick,4,Rs 499,03-03-2026
+N1070,kabir singh  ,kolkata  ,Perfume Mist,3,Rs 1499,02-03-2026
+N1067,RIYA KAPOOR,  PUNE ,Hair Oil,4,Rs 349,15-03-2026
+N1059,Vikram Rao,  MUMBAI ,Sunscreen SPF 50,4,Rs 599,14-03-2026
+N1042,ananya iyer  ,  DELHI ,Matte Lipstick,2,Rs 499,01-03-2026
+N1030,Nikhil Joshi,Mumbai,Compact Powder,2,Rs 449,14-03-2026
+N1105,vikram rao  ,  DELHI ,Sunscreen SPF 50,4 ,Rs 599,08-03-2026
+N1026,  PRIYA SHARMA ,  KOLKATA ,Face Serum,1,"Rs 1,299",15-03-2026
+N1081, Harsh Vyas,mumbai  ,Nail Polish Set,4,Rs 299,01-03-2026
+N1093,Tara Bose,pune  ,Perfume Mist,1,Rs 1499,10-03-2026
+N1073,Riya Kapoor,  PUNE ,Compact Powder,1,Rs 449,04-03-2026
+N1049,Kabir Singh,  PUNE ,Hair Oil,3,Rs 349,04-03-2026
+N1040,  ROHAN MEHTA ,Kolkata,Compact Powder,2 ,Rs 449,14-03-2026
+N1107,arjun das  ,Bengaluru,Moisturiser,4 ,Rs 699,02-03-2026
+N1091,  HARSH VYAS ,Kolkata,Matte Lipstick,1,Rs 499,09-03-2026
+N1099, Isha Patel,Bengaluru,Nail Polish Set,3,Rs 299,05-03-2026
+N1027,Ananya Iyer, Chennai,Sunscreen SPF 50,1,Rs 599,07-03-2026
+N1066,Isha Patel,Bengaluru,Face Serum,2 ,"Rs 1,299",12-03-2026
+N1067,riya kapoor  ,  PUNE ,Hair Oil,4,Rs 349,15-03-2026
+N1092,Ananya Iyer,Pune,Perfume Mist,1 ,"Rs 1,499",11-03-2026
+N1084,dev malhotra  ,Mumbai,Matte Lipstick,4,Rs 499,09-03-2026
+N1019,Priya Sharma,kolkata  ,Sunscreen SPF 50,3,Rs 599,12-03-2026
+N1015,TARA BOSE,Delhi,Compact Powder,1,Rs 449,13-03-2026
+N1038,Priya Sharma,  BENGALURU ,Compact Powder,4 ,Rs 449,08-03-2026

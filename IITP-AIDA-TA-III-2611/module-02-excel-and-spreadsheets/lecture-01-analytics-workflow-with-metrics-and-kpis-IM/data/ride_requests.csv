@@ -1,0 +1,141 @@
+request_id,city,request_date,request_hour,status,pickup_wait_min,fare_rs
+R001,Hyderabad,2026-03-02,21:00,Completed,5.0,140.0
+R002,Bengaluru,2026-03-05,17:00,No driver found,,
+R003,Bengaluru,2026-03-03,08:00,Completed,8.0,110.0
+R004,Bengaluru,2026-03-05,21:00,Cancelled by driver,9.0,
+R005,Bengaluru,2026-03-01,18:00,Completed,11.0,45.0
+R006,Hyderabad,2026-03-04,17:00,Completed,9.0,180.0
+R007,Bengaluru,2026-03-05,18:00,Completed,10.0,60.0
+R008,Hyderabad,2026-03-05,13:00,Cancelled by rider,5.0,
+R009,Bengaluru,2026-03-04,13:00,Cancelled by rider,3.0,
+R010,Bengaluru,2026-03-01,21:00,Completed,4.0,110.0
+R011,Bengaluru,2026-03-05,19:00,Cancelled by rider,18.0,
+R012,Hyderabad,2026-03-06,18:00,Completed,15.0,140.0
+R013,Bengaluru,2026-03-03,10:00,Completed,8.0,60.0
+R014,Bengaluru,2026-03-05,09:00,Completed,6.0,75.0
+R015,Bengaluru,2026-03-01,10:00,Completed,4.0,90.0
+R016,Bengaluru,2026-03-01,17:00,Completed,15.0,45.0
+R017,Hyderabad,2026-03-03,21:00,Completed,5.0,110.0
+R018,Bengaluru,2026-03-03,18:00,Completed,15.0,140.0
+R019,Hyderabad,2026-03-05,21:00,Completed,9.0,45.0
+R020,Hyderabad,2026-03-06,09:00,Completed,8.0,60.0
+R021,Bengaluru,2026-03-06,17:00,Cancelled by rider,3.0,
+R022,Bengaluru,2026-03-01,19:00,Completed,18.0,45.0
+R023,Bengaluru,2026-03-06,17:00,Completed,6.0,45.0
+R024,Bengaluru,2026-03-06,21:00,No driver found,,
+R025,Bengaluru,2026-03-02,09:00,Completed,9.0,110.0
+R026,Hyderabad,2026-03-01,21:00,Completed,3.0,180.0
+R027,Bengaluru,2026-03-05,18:00,Cancelled by driver,18.0,
+R028,Bengaluru,2026-03-01,09:00,Completed,15.0,75.0
+R029,Bengaluru,2026-03-04,19:00,Completed,18.0,140.0
+R030,Hyderabad,2026-03-01,19:00,Cancelled by rider,12.0,
+R031,Bengaluru,2026-03-04,10:00,Cancelled by rider,6.0,
+R032,Bengaluru,2026-03-04,17:00,No driver found,,
+R033,Hyderabad,2026-03-05,21:00,Completed,4.0,45.0
+R034,Bengaluru,2026-03-03,13:00,Completed,12.0,180.0
+R035,Hyderabad,2026-03-06,08:00,Completed,11.0,90.0
+R036,Bengaluru,2026-03-05,09:00,Completed,7.0,140.0
+R037,Bengaluru,2026-03-03,18:00,Cancelled by rider,12.0,
+R038,Bengaluru,2026-03-07,17:00,Cancelled by rider,12.0,
+R039,Bengaluru,2026-03-04,10:00,Completed,12.0,60.0
+R040,Hyderabad,2026-03-01,18:00,Cancelled by rider,10.0,
+R041,Bengaluru,2026-03-01,13:00,Completed,8.0,140.0
+R042,Hyderabad,2026-03-06,08:00,Completed,12.0,60.0
+R043,Bengaluru,2026-03-07,09:00,Completed,18.0,140.0
+R044,Bengaluru,2026-03-02,18:00,Completed,18.0,75.0
+R045,Bengaluru,2026-03-07,19:00,No driver found,,
+R046,Bengaluru,2026-03-03,18:00,Cancelled by rider,7.0,
+R047,Bengaluru,2026-03-05,18:00,Completed,6.0,90.0
+R048,Bengaluru,2026-03-05,08:00,Completed,18.0,45.0
+R049,Bengaluru,2026-03-05,17:00,No driver found,,
+R050,Bengaluru,2026-03-03,17:00,Completed,6.0,110.0
+R051,Bengaluru,2026-03-07,13:00,Completed,8.0,45.0
+R052,Bengaluru,2026-03-03,08:00,Completed,12.0,90.0
+R053,Bengaluru,2026-03-05,09:00,Cancelled by rider,11.0,
+R054,Bengaluru,2026-03-05,09:00,Completed,7.0,140.0
+R055,Bengaluru,2026-03-06,19:00,Completed,15.0,60.0
+R056,Hyderabad,2026-03-02,10:00,Completed,12.0,180.0
+R057,Hyderabad,2026-03-01,08:00,Cancelled by rider,10.0,
+R058,Bengaluru,2026-03-06,19:00,Completed,18.0,90.0
+R059,Hyderabad,2026-03-02,17:00,Completed,5.0,180.0
+R060,Bengaluru,2026-03-07,18:00,No driver found,,
+R061,Bengaluru,2026-03-04,09:00,Cancelled by rider,11.0,
+R062,Bengaluru,2026-03-06,17:00,Cancelled by driver,3.0,
+R063,Hyderabad,2026-03-06,17:00,No driver found,,
+R064,Hyderabad,2026-03-05,17:00,Completed,5.0,140.0
+R065,Hyderabad,2026-03-07,10:00,Completed,7.0,110.0
+R066,Bengaluru,2026-03-06,08:00,Cancelled by driver,18.0,
+R067,Bengaluru,2026-03-02,17:00,Completed,6.0,90.0
+R068,Bengaluru,2026-03-06,10:00,Completed,5.0,75.0
+R069,Bengaluru,2026-03-06,17:00,Completed,8.0,180.0
+R070,Bengaluru,2026-03-03,13:00,Cancelled by driver,9.0,
+R071,Hyderabad,2026-03-03,17:00,Completed,7.0,110.0
+R072,Bengaluru,2026-03-07,19:00,Completed,6.0,45.0
+R073,Hyderabad,2026-03-02,19:00,Completed,15.0,90.0
+R074,Bengaluru,2026-03-03,17:00,Completed,9.0,140.0
+R075,Hyderabad,2026-03-04,21:00,No driver found,,
+R076,Bengaluru,2026-03-06,09:00,Completed,9.0,180.0
+R077,Bengaluru,2026-03-07,18:00,Completed,11.0,45.0
+R078,Hyderabad,2026-03-01,10:00,Completed,15.0,110.0
+R079,Bengaluru,2026-03-06,13:00,Cancelled by rider,15.0,
+R080,Bengaluru,2026-03-03,09:00,Cancelled by driver,18.0,
+R081,Bengaluru,2026-03-03,19:00,Completed,6.0,90.0
+R082,Bengaluru,2026-03-04,13:00,No driver found,,
+R083,Hyderabad,2026-03-02,21:00,Completed,12.0,110.0
+R084,Hyderabad,2026-03-03,08:00,Completed,6.0,90.0
+R085,Bengaluru,2026-03-01,17:00,Completed,6.0,180.0
+R086,Hyderabad,2026-03-07,10:00,No driver found,,
+R087,Hyderabad,2026-03-03,09:00,Completed,8.0,110.0
+R088,Hyderabad,2026-03-01,19:00,Completed,10.0,60.0
+R089,Hyderabad,2026-03-07,13:00,Completed,3.0,45.0
+R090,Hyderabad,2026-03-03,13:00,Completed,4.0,140.0
+R091,Hyderabad,2026-03-02,19:00,Completed,9.0,45.0
+R092,Bengaluru,2026-03-02,08:00,Cancelled by rider,12.0,
+R093,Bengaluru,2026-03-06,08:00,Completed,18.0,45.0
+R094,Bengaluru,2026-03-06,19:00,Completed,12.0,180.0
+R095,Hyderabad,2026-03-04,10:00,Cancelled by rider,6.0,
+R096,Bengaluru,2026-03-01,18:00,Completed,7.0,110.0
+R097,Hyderabad,2026-03-01,13:00,Completed,8.0,75.0
+R098,Bengaluru,2026-03-03,18:00,Cancelled by rider,8.0,
+R099,Bengaluru,2026-03-01,08:00,Completed,8.0,180.0
+R100,Bengaluru,2026-03-06,19:00,Completed,10.0,45.0
+R101,Bengaluru,2026-03-01,09:00,Cancelled by driver,11.0,
+R102,Bengaluru,2026-03-04,13:00,Completed,8.0,180.0
+R103,Bengaluru,2026-03-01,19:00,Completed,11.0,60.0
+R104,Bengaluru,2026-03-03,08:00,Completed,6.0,90.0
+R105,Bengaluru,2026-03-07,18:00,Completed,8.0,90.0
+R106,Hyderabad,2026-03-05,10:00,Completed,15.0,60.0
+R107,Bengaluru,2026-03-07,10:00,Cancelled by driver,8.0,
+R108,Hyderabad,2026-03-04,19:00,Completed,7.0,110.0
+R109,Bengaluru,2026-03-06,21:00,Completed,15.0,180.0
+R110,Bengaluru,2026-03-02,10:00,Completed,3.0,75.0
+R111,Bengaluru,2026-03-04,18:00,Completed,7.0,110.0
+R112,Bengaluru,2026-03-06,19:00,Completed,10.0,60.0
+R113,Hyderabad,2026-03-04,19:00,Completed,7.0,45.0
+R114,Bengaluru,2026-03-05,21:00,Completed,8.0,45.0
+R115,Bengaluru,2026-03-07,08:00,Cancelled by rider,8.0,
+R116,Hyderabad,2026-03-02,10:00,Completed,4.0,90.0
+R117,Hyderabad,2026-03-05,17:00,Completed,15.0,75.0
+R118,Bengaluru,2026-03-03,13:00,No driver found,,
+R119,Hyderabad,2026-03-04,09:00,Completed,10.0,75.0
+R120,Hyderabad,2026-03-05,21:00,Cancelled by driver,12.0,
+R121,Hyderabad,2026-03-03,19:00,No driver found,,
+R122,Bengaluru,2026-03-07,18:00,Completed,7.0,60.0
+R123,Bengaluru,2026-03-07,09:00,Cancelled by driver,9.0,
+R124,Bengaluru,2026-03-06,19:00,Completed,10.0,60.0
+R125,Hyderabad,2026-03-01,10:00,Completed,15.0,180.0
+R126,Bengaluru,2026-03-05,18:00,Cancelled by driver,9.0,
+R127,Bengaluru,2026-03-05,19:00,Cancelled by rider,18.0,
+R128,Hyderabad,2026-03-03,19:00,Completed,12.0,60.0
+R129,Hyderabad,2026-03-06,19:00,No driver found,,
+R130,Bengaluru,2026-03-06,19:00,Completed,10.0,75.0
+R131,Bengaluru,2026-03-02,19:00,Completed,9.0,90.0
+R132,Bengaluru,2026-03-04,09:00,Cancelled by rider,8.0,
+R133,Hyderabad,2026-03-06,18:00,Completed,15.0,75.0
+R134,Hyderabad,2026-03-07,13:00,Completed,5.0,140.0
+R135,Hyderabad,2026-03-06,10:00,Cancelled by rider,5.0,
+R136,Bengaluru,2026-03-01,09:00,Completed,6.0,140.0
+R137,Bengaluru,2026-03-06,09:00,Completed,7.0,90.0
+R138,Hyderabad,2026-03-04,19:00,Completed,11.0,110.0
+R139,Bengaluru,2026-03-05,10:00,Completed,5.0,180.0
+R140,Bengaluru,2026-03-04,10:00,Completed,15.0,60.0

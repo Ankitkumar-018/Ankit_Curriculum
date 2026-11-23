@@ -1,0 +1,41 @@
+city,delivery_id,customer,basket_value,delivery_minutes,status
+Mumbai,M001,Meera Reddy,780,44,Delivered
+Mumbai,M002,Arjun Nair,1620,30,Delivered
+Mumbai,M003,Meera Joshi,1450,31,Delivered
+Mumbai,M004,Pooja Menon,1620,45,Delivered
+Mumbai,M005,Isha Singh,780,46,Delivered
+Mumbai,M006,Riya Rao,520,58,Delivered
+Mumbai,M007,Anil Kumar Rao,2750,,Cancelled
+Mumbai,M008,Neha Joshi,1180,22,Delivered
+Mumbai,M009,Ananya Menon,1620,31,Delivered
+Mumbai,M010,Isha Patel,2750,25,Returned
+Mumbai,M011,Zoya Menon,2750,33,Delivered
+Mumbai,M012,Arjun Shetty,990,18,Delivered
+Mumbai,M013,Kabir Gupta,845,30,Delivered
+Mumbai,M014,Dev Ansari,990,40,Delivered
+Mumbai,M015,Nikhil Gupta,1180,75,Delivered
+Mumbai,M016,Aman Joshi,1620,,Cancelled
+Mumbai,M017,Rohan Singh,399,36,Returned
+Mumbai,M018,Arjun Khan,2750,45,Delivered
+Mumbai,M019,Arjun Patel,2300,58,Delivered
+Mumbai,M020,Meera Bose,1890,52,Delivered
+Mumbai,M021,Arjun Joshi,1620,,Cancelled
+Mumbai,M022,Isha Reddy,2750,28,Delivered
+Mumbai,M023,Mary Anne Joseph,399,46,Delivered
+Mumbai,M024,Ananya Joshi,2300,75,Delivered
+Mumbai,M025,Tara Khan,2750,,Cancelled
+Mumbai,M026,Sana Khan,780,75,Delivered
+Mumbai,M027,Dev Khan,1890,33,Delivered
+Mumbai,M028,Dev Menon,1620,25,Delivered
+Mumbai,M029,Rohan Singh,240,36,Delivered
+Mumbai,M030,Kabir Iyer,1180,65,Delivered
+Mumbai,M031,Pooja Gupta,399,58,Delivered
+Mumbai,M032,Vikram Shetty,845,,Cancelled
+Mumbai,M033,Nikhil Nair,1180,22,Delivered
+Mumbai,M034,Riya Das,1890,25,Delivered
+Mumbai,M035,Vikram Patel,1180,52,Delivered
+Mumbai,M036,Harsh Joshi,780,31,Delivered
+Mumbai,M037,Riya Reddy,780,22,Delivered
+Mumbai,M038,Zoya Joshi,1180,46,Delivered
+Mumbai,M039,Harsh Kapoor,1890,58,Delivered
+Mumbai,M040,Neha Vyas,990,48,Delivered

@@ -1,0 +1,41 @@
+city,delivery_id,customer,basket_value,delivery_minutes,status
+Pune,P001,Riya Singh,610,44,Delivered
+Pune,P002,Arjun Gupta,1620,30,Delivered
+Pune,P003,Zoya Das,990,31,Delivered
+Pune,P004,Rohan Sharma,610,45,Delivered
+Pune,P005,Aman Reddy,1180,46,Delivered
+Pune,P006,Kabir Das,990,33,Delivered
+Pune,P007,Anil Kumar Rao,1180,75,Delivered
+Pune,P008,Priya Menon,990,18,Delivered
+Pune,P009,Meera Sharma,1450,40,Delivered
+Pune,P010,Arjun Verma,2300,52,Delivered
+Pune,P011,Kabir Menon,2750,33,Delivered
+Pune,P012,Meera Das,1620,45,Delivered
+Pune,P013,Zoya Rao,240,36,Delivered
+Pune,P014,Zoya Shetty,610,28,Delivered
+Pune,P015,Tara Gupta,520,48,Delivered
+Pune,P016,Kavya Verma,399,33,Delivered
+Pune,P017,Harsh Patel,520,30,Delivered
+Pune,P018,Rohan Nair,1620,18,Delivered
+Pune,P019,Meera Bose,1890,75,Delivered
+Pune,P020,Nikhil Khan,2750,75,Delivered
+Pune,P021,Vikram Menon,520,75,Delivered
+Pune,P022,Rahul Shetty,1890,52,Delivered
+Pune,P023,Anil Kumar Rao,2750,46,Delivered
+Pune,P024,Rahul Kapoor,1180,33,Delivered
+Pune,P025,Meera Khan,990,52,Delivered
+Pune,P026,Isha Iyer,2750,,Cancelled
+Pune,P027,Isha Iyer,240,36,Delivered
+Pune,P028,Nikhil Bose,399,44,Delivered
+Pune,P029,Kabir Malhotra,1620,44,Delivered
+Pune,P030,Kavya Sharma,1890,65,Delivered
+Pune,P031,Vikram Mehta,990,44,Delivered
+Pune,P032,Nikhil Gupta,1450,44,Delivered
+Pune,P033,Arjun Ansari,1180,36,Delivered
+Pune,P034,Kabir Verma,399,46,Delivered
+Pune,P035,Nikhil Patel,780,25,Delivered
+Pune,P036,Dev Iyer,520,,Cancelled
+Pune,P037,Sana Gupta,1620,30,Delivered
+Pune,P038,Meera Singh,845,,Cancelled
+Pune,P039,Harsh Reddy,610,31,Delivered
+Pune,P040,Arjun Bose,520,33,Delivered

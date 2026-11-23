@@ -33,6 +33,8 @@ Published course content. Each batch is a top-level folder (batch id from the IN
 
 Module and lecture folders are created when pre-reads and lecture scripts are added.
 
+**Folder naming (IITP-AIDA-TA-III-2611):** a lecture folder ends with `-IM` when an Industry Mentor teaches it and `-professor` when a Professor teaches it (masterclasses). Filler sessions have no suffix and sit under `module-00-filler-sessions/`.
+
 **Templates** under `templates/` are reference skeletons only.
 
 ## Curriculum CSV (local, not in this repo)
